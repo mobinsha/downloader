@@ -2,6 +2,7 @@
 
 - [playlist](./playlist)
 - [watch](./watch)
+- [zyrln-1.4.0](./zyrln-1.4.0)
 
 ---
 
