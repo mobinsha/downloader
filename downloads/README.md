@@ -5,6 +5,7 @@
 - [playlist](./playlist)
 - [watch](./watch)
 - [zyrln-1.4.0](./zyrln-1.4.0)
+- [zyrln-1.5.1-pre4-windows-amd64](./zyrln-1.5.1-pre4-windows-amd64)
 - [zyrln-linux-amd64](./zyrln-linux-amd64)
 - [zyrln-windows-amd64](./zyrln-windows-amd64)
 

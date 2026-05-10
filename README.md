@@ -81,6 +81,8 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [ce455e48-0bac-4bea-a68d-8040c73d8f7e](https://github.com/mobinsha/downloader/tree/main/downloads/ce455e48-0bac-4bea-a68d-8040c73d8f7e)
@@ -93,8 +95,10 @@ https://github.com/nikzad-avasam/youtube-dl
 
 5. [zyrln-1.4.0](https://github.com/mobinsha/downloader/tree/main/downloads/zyrln-1.4.0)
 
-6. [zyrln-linux-amd64](https://github.com/mobinsha/downloader/tree/main/downloads/zyrln-linux-amd64)
+6. [zyrln-1.5.1-pre4-windows-amd64](https://github.com/mobinsha/downloader/tree/main/downloads/zyrln-1.5.1-pre4-windows-amd64)
 
-7. [zyrln-windows-amd64](https://github.com/mobinsha/downloader/tree/main/downloads/zyrln-windows-amd64)
+7. [zyrln-linux-amd64](https://github.com/mobinsha/downloader/tree/main/downloads/zyrln-linux-amd64)
+
+8. [zyrln-windows-amd64](https://github.com/mobinsha/downloader/tree/main/downloads/zyrln-windows-amd64)
 
 ---
