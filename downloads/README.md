@@ -6,6 +6,7 @@
 - [watch](./watch)
 - [zyrln-1.4.0](./zyrln-1.4.0)
 - [zyrln-linux-amd64](./zyrln-linux-amd64)
+- [zyrln-windows-amd64](./zyrln-windows-amd64)
 
 ---
 
